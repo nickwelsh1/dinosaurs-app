@@ -1,0 +1,143 @@
+Dinosauria
+  type = Clade
+  Saurischia
+    type = Order
+    Theropoda
+      type = Suborder
+      Herrerasauria
+        type = Infraorder
+      Coelophysoidea
+        type = Infraorder
+      Ceratosauria
+        type = Infraorder
+        Neoceratosauria
+          type = Division
+          Abelisauroidea
+            type = Subdivision
+            Abelisauridae
+              type = Family
+            Noasauridae
+              type = Family
+          Ceratosauridae
+            type = Subdivision
+      Tetanurae
+        type = Infraorder
+        Megalosauria
+          type = Division
+          Spinosauroidea
+            type = Subdivision
+            Megalosauridae
+              type = Family
+            Spinosauridae
+              type = Family
+        Carnosauria
+          type = Division
+          Allosauroidea
+            type = Subdivision
+            Allosauridae
+              type = Family
+            Carcharodontosauridae
+              type = Family
+            Neovenatoridae
+              type = Family
+            Metriacanthosauridae
+              type = Family
+        Coelurosauria
+          type = Division
+          Coeluridae
+            type = Family
+          Maniraptoriformes
+            type = Subdivision
+            Tyrannosauridae
+              type = Family
+            Ornithomimidae
+              type = Family
+            Maniraptora
+              type = Infradivision
+              Alvarezsauridae
+                type = Family
+              Therizinosauridae
+                type = Family
+              Deinonychosauria
+                type = Cohort
+                Troodontidae
+                  type = Family
+                Dromaeosauridae
+                  type = Family
+                Aves
+                  type = Class
+    Sauropodomorpha
+      type = Suborder
+      Thecodontosaurus
+        type = Thecodontosaurus
+      Plateosauridae
+        type = Family
+      Riojasaurus
+      Massospondylidae
+        type = Family
+      Sauropoda
+        type = Infraorder
+        Vulcanodontidae
+          type = Family
+        Omeisauridae
+          type = Family
+        Neosauropoda
+          type = Division
+          Cetiosauridae
+            type = Family
+          Diplodocidae
+            type = Family
+          Macronaria
+            type = Subdivision
+            Camarasauridae
+              type = Family
+            Titanosauriformes
+              type = Infradivision
+              Brachiosauridae
+                type = Family
+              Somphospondyli
+                type = Cohort
+                Euhelopodidae
+                  type = Family
+                Titanosauridae
+                  type = Family
+  Ornithischia
+    type = Order
+    Pisanosauridae
+      type = Family
+    Fabrosauridae
+      type = Family
+    Thyreophora
+      type = Suborder
+      Scelidosauridae
+        type = Family
+      Stegosauria
+        type = Infraorder
+      Ankylosauria
+        type = Infraorder
+        Nodosauridae
+          type = Family
+        Ankylosauridae
+          type = Family
+    Cerapoda
+      type = Suborder
+      Pachycephalosauria
+        type = Infraorder
+      Ceratopsia
+        type = Infraorder
+        Psittacosauridae
+          type = Family
+        Protoceratopsidae
+          type = Family
+        Ceratopsidae
+          type = Family
+      Ornithopoda
+        type = Infraorder
+        Heterodontosauridae
+          type = Family
+        Hypsilophodontidae
+          type = Family
+        Iguanodontidae
+          type = Family
+        Hadrosauridae
+          type = Family
