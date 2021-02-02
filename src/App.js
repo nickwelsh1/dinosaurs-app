@@ -41,8 +41,8 @@ class App extends Component {
       cardlist = <CardList dinosaurs={this.state.dinosaurs} />
     }
     return (
-      <div>
-        <h1>Dinosaur App</h1>
+      <div className="m-5">
+        <h1 className="display-4 mb-5">Dinosaur App</h1>
         { cardlist }
       </div>
     );
