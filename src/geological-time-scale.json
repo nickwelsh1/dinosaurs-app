@@ -1,0 +1,42 @@
+{
+  "mesozoic": {
+    "cretaceous": {
+      "upper": {
+        "start": "65",
+        "end": "99"
+      },
+      "lower": {
+        "start": "99",
+        "end": "145"
+      }
+    },
+    "jurassic": {
+      "upper": {
+        "start": "145",
+        "end": "161"
+      },
+      "middle": {
+        "start": "161",
+        "end": "175"
+      },
+      "lower": {
+        "start": "175",
+        "end": "199"
+      }
+    },
+    "triassic": {
+      "upper": {
+        "start": "199",
+        "end": "228"
+      },
+      "middle": {
+        "start": "228",
+        "end": "245"
+      },
+      "lower": {
+        "start": "245",
+        "end": "251"
+      }
+    }
+  }
+}
