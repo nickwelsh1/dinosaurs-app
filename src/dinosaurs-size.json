@@ -1,0 +1,308 @@
+{
+    "reference": "https://en.wikipedia.org/wiki/Dinosaur_size",
+    "Dinosaur_size": {
+      "Sauropodomorphs": {
+        "Heaviest_sauropodomorphs": {
+          "Maraapunisaurus_fragilimus_(Amphicoelias_fragilimus)": "79–120_t",
+          "Argentinosaurus_huinculensis": "65–100_t",
+          "Mamenchisaurus_sinocanadorum": "60–80_t",
+          "Notocolossus_gonzalezparejasi": "45–76_t",
+          "Apatosaurus_sp-": "32.7–72.6_t",
+          "Barosaurus_lentus": "12–66_t",
+          "Sauroposeidon_proteles_40–60_t": {},
+          "Brachiosaurus_altithorax": "28.3–58_t",
+          "Patagotitan_mayorum": "52–57_t",
+          "Puertasaurus_reuili": "45–55_t"
+        },
+        "Longest_sauropodomorphs": {
+          "Barosaurus_lentus": "25–48_m",
+          "Maraapunisaurus_fragilimus_(Amphicoelias_fragilimus)": "30.2–40_metres",
+          "Supersaurus_vivianae": "32–35_m",
+          "Argentinosaurus_huinculensis": "30–35_m",
+          "Ruyangosaurus_giganteus": "30–35_m",
+          "Diplodocus_hallorum": "27–35_m",
+          "Sauroposeidon_proteles": "28–34_m",
+          "Patagotitan_mayorum": "31_m",
+          "Puertasaurus_reuili": "30_m",
+          "Antarctosaurus_giganteus": "30_m"
+        },
+        "Shortest_sauropods": {
+          "Ohmdenosaurus_liasicus": "4–6.7_m",
+          "Blikanasaurus_cromptoni": "4–5_m",
+          "Lirainosaurus_astibiae": "4–7_m",
+          "Magyarosaurus_dacus": "5.3–6_m",
+          "Europasaurus_holgeri": "5.7–6.2_m",
+          "Vulcanodon_karibaensis": "6.5–11_m",
+          "Isanosaurus_attavipachi": "6.5–17_m",
+          "Saltasaurus_loricatus": "7–12.8_m",
+          "Neuquensaurus_australis": "7–15_m",
+          "Antetonitrus_ingenipes": "8–12.2_m"
+        },
+        "Lightest_sauropods": {
+          "Blikanasaurus_cromptoni": "0.25_t",
+          "Astrodon_johnstoni": "0.5_t",
+          "Europasaurus_holgeri": "0.75–1_t",
+          "Magyarosaurus_dacus": "0.75–1.1_t",
+          "Bonatitan_reigi": "1_t",
+          "Lirainosaurus_astibiae": "1–4_t",
+          "Lapparentosaurus_madagascariensis": "1.4_t",
+          "Antetonitrus_ingenipes": "1.5–5.6_t",
+          "Lessemsaurus_sauropoides": "1.8_t",
+          "Neuquensaurus_australis": "1.8_t"
+        },
+        "Lightest_non-sauropod_sauropodomorphs": {
+          "Eoraptor_lunensis": "2–17.3_kg",
+          "Pampadromaeus_barberenai": "8.5_kg",
+          "Saturnalia_tupiniquim": "10–10.6_kg",
+          "Chromogisaurus_novasi": "13.1_kg",
+          "Asylosaurus_yalensis": "25_kg",
+          "Guaibasaurus_candelariensis": "25–30.3_kg",
+          "Adeopapposaurus_mognai": "43.9–70_kg",
+          "Coloradisaurus_brevis": "70_kg",
+          "Anchisaurus_polyzelus": "70–137.6_kg",
+          "Sarahsaurus_aurifontanalis": "100.2_kg"
+        },
+        "Shortest_non-sauropod_sauropodomorphs": {
+          "Agnosphitys_cromhallensis": "0.7_m",
+          "Eoraptor_lunensis": "1–1.7_m",
+          "Pampadromaeus_barberenai": "1.5_m",
+          "Saturnalia_tupiniquim": "1.5_m",
+          "Chromogisaurus_novasi": "1.5_m",
+          "Guaibasaurus_candelariensis": "2_m",
+          "Asylosaurus_yalensis": "2–2.1_m",
+          "Leyesaurus_marayensis": "2.1_m",
+          "Adeopapposaurus_mognai": "2.1–3_m",
+          "Unaysaurus_tolentinoi": "2.5_m"
+        }
+      },
+      "Theropods": {
+        "Heaviest_theropods": {
+          "Tyrannosaurus_rex": "7.7–9.1_t",
+          "Giganotosaurus_carolinii": "6.1–8.2_t",
+          "Tyrannotitan_chubutensis": "4.9–7_t",
+          "Deinocheirus_mirificus": "5–6.26_t",
+          "Carcharodontosaurus_saharicus": "3–6_t",
+          "Acrocanthosaurus_atokensis": "3.5–5.5_t",
+          "Therizinosaurus_cheloniformis": "4.5–5_t",
+          "Mapusaurus_roseae": "3.37–5_t",
+          "Carcharodontosaurus_iguidensis": "4_t",
+          "Chilantaisaurus_tashuikouensis": "3.6–4_t"
+        },
+        "Longest_theropods": {
+          "Spinosaurus_aegyptiacus": "14–16_m",
+          "Giganotosaurus_carolinii": "12.4–14_m",
+          "Tyrannotitan_chubutensis": "12.2–13_m",
+          "Saurophaganax_maximus": "10.5–13_m",
+          "Mapusaurus_roseae": "11.5–12.6_m",
+          "Tyrannosaurus_rex": "11.6–12.3_m",
+          "Carcharodontosaurus_saharicus": "12_m",
+          "Acrocanthosaurus_atokensis": "11–12_m",
+          "Bahariasaurus_ingens": "11–12_m",
+          "Deinocheirus_mirificus": "11–11.5_m"
+        },
+        "Lightest_theropods_(Birds)": {
+          "Mellisuga_helenae": "2_g",
+          "Mellisuga_minima": "2–2.4_g",
+          "Selasphorus_rufus": "2–5_g",
+          "Lophornis_magnificus": "2.1_g",
+          "Atthis_heloisa": "2.2_g",
+          "Lophornis_brachylophus": "2.7_g",
+          "Calypte_costae": "3.38–4.43_g",
+          "Calypte_anna": "3.85–5.33_g",
+          "Cratoavis_cearensis": "4_g",
+          "Gerygone_albofrontata": "5.5–10_g"
+        },
+        "Shortest_theropods_(Birds)": {
+          "Mellisuga_helenae": "5–6_cm",
+          "Mellisuga_minima": "6_cm",
+          "Lophornis_magnificus": "6.5–7_cm",
+          "Cratoavis_cearensis": "6.6_cm",
+          "Dicaeum_ignipectus": "7_cm-",
+          "Chaetocercus_heliodor": "7_cm",
+          "Myrmia_micrura": "7_cm",
+          "Lophornis_brachylophus": "7–7.5_cm",
+          "Atthis_heloisa": "7–7.5_cm",
+          "Selasphorus_rufus": "7–9_cm",
+          "Regulus_regulus": "8.5–9.5_cm"
+        },
+        "Shortest_non-avialan_theropods": {
+          "Unnamed_(BEXHM": "2008.14.1) = 16–50_cm",
+          "Epidexipteryx_hui": "25–30_cm",
+          "Ornithomimus_minutus": "30_cm",
+          "Palaeopteryx_thompsoni": "30_cm",
+          "Parvicursor_remotus": "30–39_cm",
+          "Nqwebasaurus_thwazi": "30–100_cm",
+          "Mei_long": "45–70_cm",
+          "Xixianykus_zhangi": "50_cm",
+          "Jinfengopteryx_elegans": "50–55_cm"
+        },
+        "Lightest_non-avialan_theropods": {
+          "Parvicursor_remotus": "0.137–0.2_kg",
+          "Epidexipteryx_hui": "0.164–0.391_kg",
+          "Compsognathus_longipes": "0.26–9_kg",
+          "Ceratonykus_oculatus": "0.3–1_kg",
+          "Zhongjianosaurus_yangi": "0.31_kg",
+          "Ligabueino_andesi": "0.35–0.5_kg",
+          "Yi_qi": "0.38_kg",
+          "Microraptor_zhaoianus": "0.4–0.6_kg",
+          "Mahakala_omnogovae": "0.4–0.79_kg",
+          "Mei_long": "0.4–0.85_kg"
+        }
+      },
+      "Ornithopods": {
+        "Longest_ornithopods": {
+          "Shantungosaurus_giganteus": "14.7–18.7_m",
+          "Edmontosaurus_annectens": "12–15.2_m",
+          "Hypsibema_crassicauda": "15_m",
+          "Hypsibema_missouriensis_(Parrosaurus)": "15_m",
+          "Iguanodon_bernissartensis": "10–13_m",
+          "Charonosaurus_jiayinensis": "10–13_m",
+          "Edmontosaurus_regalis": "9–13_m",
+          "Magnapaulia_laticaudus": "12.5_m",
+          "Saurolophus_angustirostris": "12_m",
+          "Ornithotarsus_immanis": "12_m"
+        },
+        "Heaviest_ornithopods": {
+          "Shantungosaurus_giganteus": "9.9–22.5_t",
+          "Iguanodon_seeleyi": "15.3_t",
+          "Edmontosaurus_annectens": "3–13.2_t",
+          "Saurolophus_angustirostris": "5–11_t",
+          "Iguanodon_bernissartensis": "3.08–8.3_t",
+          "Edmontosaurus_regalis": "4–7.6_t",
+          "Brachylophosaurus_canadensis": "4.5–7_t",
+          "Lanzhousaurus_magnidens": "6_t",
+          "Parasaurolophus_walkeri": "2.5–5.1_t",
+          "Charonosaurus_jiayinensis": "5_t"
+        },
+        "Shortest_ornithopods": {
+          "Gasparinisaura_cincosaltensis": "0.65–1.7_m",
+          "Leaellynasaura_amicagraphica": "0.9–3_m",
+          "Valdosaurus_canaliculatus": "1.3_m",
+          "Notohypsilophodon_comodorensis": "1.3_m",
+          "Fulgurotherium_australe": "1.3–2_m",
+          "Siluosaurus_zhangqiani": "1.4_m",
+          "Qantassaurus_intrepidus": "1.4–2_m",
+          "Changchunsaurus_parvus": "1.5_m",
+          "Thescelosaurus_sp-": "1.5_m",
+          "Yandusaurus_hongheensis": "1.5–3.8_m"
+        },
+        "Lightest_ornithopods": {
+          "Gasparinisaura_cincosaltensis": "1–13_kg",
+          "Yueosaurus_tiantaiensis": "3.9_kg",
+          "Fulgurotherium_australe": "6_kg",
+          "Notohypsilophodon_comodorensis": "6_kg",
+          "Yandusaurus_hongheensis": "6.6–7.5_kg",
+          "Hypsilophodon_foxii": "7–21_kg",
+          "Thescelosaurus_sp-": "7.9–86_kg",
+          "Valdosaurus_canaliculatus": "10_kg",
+          "Haya_griva": "11_kg",
+          "Agilisaurus_louderbacki": "12_kg"
+        }
+      },
+      "Ceratopsians": {
+        "Longest_ceratopsians": {
+          "Eotriceratops_xerinsularis": "8.5_m",
+          "Triceratops_horridus": "8_m",
+          "Triceratops_prorsus": "8_m",
+          "Torosaurus_latus": "8_m",
+          "Ojoceratops_fowleri": "8_m",
+          "Titanoceratops_ouranos": "6.5–6.8_m",
+          "Pachyrhinosaurus_canadensis": "6_m",
+          "Achelousaurus_horneri": "6_m",
+          "Albertaceratops_nesmoi": "5.8_m",
+          "Pentaceratops_sternbergii": "5.5_m"
+        },
+        "Heaviest_ceratopsians": {
+          "Triceratops_horridus": "9–13.5_t",
+          "Triceratops_prorsus": "9–10.9_t",
+          "Ojoceratops_fowleri": "4.5–10.8_t",
+          "Bravoceratops_polyphemus": "10_t",
+          "Pachyrhinosaurus_canadensis": "3–4.4_t",
+          "Styracosaurus_albertensis": "1.8–4.2_t",
+          "Albertaceratops_nesmoi": "3.5_t",
+          "Chasmosaurus_russelli": "1.5–3.5_t",
+          "Chasmosaurus_belli": "2–3.1_t",
+          "Pentaceratops_sternbergii": "2.5_t"
+        },
+        "Shortest_ceratopsians": {
+          "Yamaceratops_dorngobiensis": "50_cm",
+          "Liaoceratops_yanzigouensis": "50_cm",
+          "Archaeoceratops_yujingziensis": "55_cm",
+          "Microceratus_gobiensis": "60_cm",
+          "Bagaceratops_rozhdestvenskyi": "80_cm",
+          "Archaeoceratops_oshimai": "80–90_cm",
+          "Psittacosaurus_lujiatunensis": "90_cm",
+          "Micropachycephalosaurus_hongtuyanensis": "100_cm",
+          "Chaoyangsaurus_youngi": "100_cm",
+          "Xuanhuaceratops_niei": "100_cm"
+        },
+        "Lightest_ceratopsians": {
+          "Liaoceratops_yanzigouensis": "2_kg",
+          "Yamaceratops_dorngobiensis": "2_kg",
+          "Psittacosaurus_sinensis": "4.1–6_kg",
+          "Psittacosaurus_lujiatunensis": "5_kg",
+          "Yinlong_downsi": "5.5–10_kg",
+          "Micropachycephalosaurus_hongtuyanensis": "5.9_kg",
+          "Chaoyangsaurus_youngi": "6_kg",
+          "Xuanhuaceratops_niei": "6_kg",
+          "Psittacosaurus_gobiensis": "6–9.4_kg",
+          "Bagaceratops_rozhdestvenskyi": "7_kg"
+        }
+      },
+      "Pachycephalosaurs": {
+        "Longest_pachycephalosaurs": {
+          "Pachycephalosaurus_wyomingensis": "4.5_m",
+          "Stygimoloch_spinifer": "3_m",
+          "Gravitholus_albertae": "3_m"
+        },
+        "Shortest_pachycephalosaurs": {
+          "Wannanosaurus_yansiensis": "0.6_m",
+          "Colepiocephale_lambei": "1.8_m",
+          "Texacephale_langstoni": "2_m"
+        }
+      },
+      "Thyreophorans": {
+        "Longest_thyreophorans": {
+          "Stegosaurus_ungulatus": "7–9_m",
+          "Stegosaurus_stenops": "6.5–9_m",
+          "Cedarpelta_bilbeyhallorum": "5–9_m",
+          "Dacentrurus_armatus": "7–8_m",
+          "Ankylosaurus_magniventris": "6.25–8_m",
+          "Tarchia_gigantea": "4.5–8_m",
+          "Sauropelta_edwardsorum": "5–7.6_m",
+          "Dyoplosaurus_acutosquameus": "7_m",
+          "Tuojiangosaurus_multispinus": "6.5–7_m",
+          "Wuerhosaurus_homheni": "6.1–7_m"
+        },
+        "Heaviest_thyreophorans": {
+          "Ankylosaurus_magniventris": "4.8–8_t",
+          "Dacentrurus_armatus": "5–7.4_t",
+          "Stegosaurus_ungulatus": "3.8–7_t",
+          "Stegosaurus_stenops": "2.6–5.3_t",
+          "Cedarpelta_bilbeyhallorum": "5_t",
+          "Hesperosaurus_mjosi": "3.5–5_t",
+          "Tuojiangosaurus_multispinus": "1.1–4.8_t",
+          "Wuerhosaurus_homheni": "4_t",
+          "Niobrarasaurus_coleii": "4_t",
+          "Gobisaurus_domoculus": "3.5_t"
+        },
+        "Shortest_thyreophorans": {
+          "Tatisaurus_oehleri": "1.2_m",
+          "Scutellosaurus_lawleri": "1.2–1.3_m",
+          "Dracopelta_zbyszewskii": "2–3_m",
+          "Minmi_paravertebra": "2–3_m"
+        },
+        "Lightest_thyreophorans": {
+          "Scutellosaurus_lawleri": "3_kg",
+          "Emausaurus_ernsti": "50_kg",
+          "Scelidosaurus_harrisonii": "64.5–270_kg",
+          "Animantarx_ramaljonesi": "300_kg",
+          "Struthiosaurus_transylvanicus": "300_kg",
+          "Struthiosaurus_austriacus": "300_kg",
+          "Gargoyleosaurus_parkpinorum": "300_kg",
+          "Mymoorapelta_maysi": "300_kg",
+          "Minmi_paravertebra": "300_kg"
+        }
+      }
+    }
+  }

@@ -1,42 +1,271 @@
 {
-  "mesozoic": {
-    "cretaceous": {
-      "upper": {
-        "start": "65",
-        "end": "99"
-      },
-      "lower": {
-        "start": "99",
-        "end": "145"
-      }
-    },
-    "jurassic": {
-      "upper": {
-        "start": "145",
-        "end": "161"
-      },
-      "middle": {
-        "start": "161",
-        "end": "175"
-      },
-      "lower": {
-        "start": "175",
-        "end": "199"
-      }
-    },
-    "triassic": {
-      "upper": {
-        "start": "199",
-        "end": "228"
-      },
-      "middle": {
-        "start": "228",
-        "end": "245"
-      },
-      "lower": {
-        "start": "245",
-        "end": "251"
-      }
+    "time": {
+      "reference": "https://www.geosociety.org/documents/gsa/timescale/timescl.pdf",
+      "timeLabel": "era",
+      "title": "mesozoic",
+      "time": [
+        {
+          "timeLabel": "period",
+          "title": "cretaceous",
+          "time": [
+            {
+              "timeLabel": "epoch",
+              "title": "late",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Maastrichtian",
+                  "start": "66",
+                  "end": "72.1"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Campanian",
+                  "start": "72.1",
+                  "end": "83.6"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Santonian",
+                  "start": "83.6",
+                  "end": "86.3"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Coniacian",
+                  "start": "86.3",
+                  "end": "89.8"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Turonian",
+                  "start": "89.8",
+                  "end": "93.9"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Cenomanian",
+                  "start": "93.9",
+                  "end": "100.5"
+                }
+              ],
+              "start": "66",
+              "end": "100.5"
+            },
+            {
+              "timeLabel": "epoch",
+              "title": "early",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Albian",
+                  "start": "100.5",
+                  "end": "113"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Aptian",
+                  "start": "113",
+                  "end": "125"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Barremian",
+                  "start": "125",
+                  "end": "129.4"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Hauterivian",
+                  "start": "129.4",
+                  "end": "132.9"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Valanginian",
+                  "start": "132.9",
+                  "end": "139.8"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Berriasian",
+                  "start": "139.8",
+                  "end": "145"
+                }
+              ],
+              "start": "100.5",
+              "end": "145"
+            }
+          ]
+        },
+        {
+          "timeLabel": "period",
+          "title": "jurassic",
+          "time": [
+            {
+              "timeLabel": "epoch",
+              "title": "late",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Tithonian",
+                  "start": "145",
+                  "end": "152.1"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Kimmeridgian",
+                  "start": "152.1",
+                  "end": "157.3"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Oxfordian",
+                  "start": "157.3",
+                  "end": "163.5"
+                }
+              ],
+              "start": "145",
+              "end": "163.5"
+            },
+            {
+              "timeLabel": "epoch",
+              "title": "middle",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Callovian",
+                  "start": "163.5",
+                  "end": "166.1"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Bathonian",
+                  "start": "166.1",
+                  "end": "168.3"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Bajocian",
+                  "start": "168.3",
+                  "end": "170.3"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Aalenian",
+                  "start": "170.3",
+                  "end": "174.1"
+                }
+              ],
+              "start": "163.5",
+              "end": "174.1"
+            },
+            {
+              "timeLabel": "epoch",
+              "title": "early",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Toarcian",
+                  "start": "174.1",
+                  "end": "182.7"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Pliensbachian",
+                  "start": "182.7",
+                  "end": "190.8"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Sinemurian",
+                  "start": "190.8",
+                  "end": "199.3"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Hettangian",
+                  "start": "199.3",
+                  "end": "201.3"
+                }
+              ],
+              "start": "174.1",
+              "end": "201.3"
+            }
+          ]
+        },
+        {
+          "timeLabel": "period",
+          "title": "triassic",
+          "time": [
+            {
+              "timeLabel": "epoch",
+              "title": "late",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Rhaetian",
+                  "start": "201.3",
+                  "end": "208.5"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Norian",
+                  "start": "208.5",
+                  "end": "227"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Carnian",
+                  "start": "227",
+                  "end": "237"
+                }
+              ],
+              "start": "201.3",
+              "end": "237"
+            },
+            {
+              "timeLabel": "epoch",
+              "title": "middle",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Ladinian",
+                  "start": "237",
+                  "end": "242"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Anisian",
+                  "start": "242",
+                  "end": "247.2"
+                }
+              ],
+              "start": "237",
+              "end": "247.2"
+            },
+            {
+              "timeLabel": "epoch",
+              "title": "early",
+              "time": [
+                {
+                  "timeLabel": "age",
+                  "title": "Olenekian",
+                  "start": "247.2",
+                  "end": "251.2"
+                },
+                {
+                  "timeLabel": "age",
+                  "title": "Induan",
+                  "start": "251.2",
+                  "end": "251.9"
+                }
+              ],
+              "start": "247.2",
+              "end": "251.9"
+            }
+          ]
+        }
+      ]
     }
   }
-}
