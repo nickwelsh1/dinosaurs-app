@@ -1,18 +1,25 @@
 import React, { Component } from "react";
 import CardList from "./CardList.js";
+import TimeSections from "./TimeSections.js";
 import axios from 'axios';
-// import { dinosauria } from './dinosurs-taxa.json';
+
+const dinosaursTaxa = require('./dinosaurs-taxa.json');
+const dinosaurSizes = require('./dinosaurs-size.json');
+const timeScale = require('./geological-time-scale.json');
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      dinosaurs: ["dinosauria", "empty"]
+      dinosaurs: ["dinosauria", "empty"],
+      dinosaursTaxa: dinosaursTaxa,
+      dinosaurSizes: dinosaurSizes,
+      timeScale: timeScale
     };
   }
 
   onSomethingChange(event) {
-    console.log(event);
+    console.log('onSomethingChange', event);
   }
 
   componentDidMount() {
@@ -40,9 +47,16 @@ class App extends Component {
     if (this.state.dinosaurs !== undefined && this.state.retrievedData) {
       cardlist = <CardList dinosaurs={this.state.dinosaurs} />
     }
+
+    let timeSections;
+    if (this.state.timeScale !== undefined && this.state.retrievedData) {
+      timeSections = <TimeSections timeScale={this.state.timeScale} />
+    }
+
     return (
       <div className="m-5">
         <h1 className="display-4 mb-5">Dinosaur App</h1>
+        { timeSections }
         { cardlist }
       </div>
     );
